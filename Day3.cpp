@@ -20,9 +20,6 @@ int main() {
 		}
 	}
 	inputFile.close();
-	
-	//Read the input into a grid (2D vector)
-
 
 	/*
 	Part 1:
