@@ -7,7 +7,7 @@ using namespace std;
 
 int main() {
 
-	//input file into a string vector, standardised for future use
+	//input file into a string vector, each line being an item in the vector
 	fstream inputFile;
 	vector<string> input;
 	string inputLine;
